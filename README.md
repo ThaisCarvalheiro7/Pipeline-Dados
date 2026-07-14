@@ -1,4 +1,4 @@
-# Data Lake Bancário - Pipeline ETL com Databricks 🟧
+#  Pipeline ETL com Databricks 🟧
 <p>
  Este projeto tem como objetivo construir um pipeline de Engenharia de Dados para processamento e análise de transações bancárias utilizando Databricks, PySpark e SQL.
 </p>
@@ -11,7 +11,7 @@
 
 <h1>Objetivo do Projeto 🎯</h1>
 <p>Construir um pipeline completo capaz de: </p>
-<p>- Realizar a ingestão de dados bancários</p>
+<p>- Realizar a ingestão de dados</p>
 <p>- Armazenar dados brutos preservando histórico</p>
 <p>- Aplicar regras de qualidade e transformação</p>
 <p>- Criar produtos de dados analíticos</p>
