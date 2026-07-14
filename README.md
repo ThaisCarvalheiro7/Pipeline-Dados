@@ -1,4 +1,4 @@
-#  Pipeline ETL com Databricks 🟧
+#  Pipeline de Dados com Databricks 🟧
 <p>
  Este projeto tem como objetivo construir um pipeline de Engenharia de Dados para processamento e análise de transações bancárias utilizando Databricks, PySpark e SQL.
 </p>
